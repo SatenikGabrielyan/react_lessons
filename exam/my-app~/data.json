@@ -1,0 +1,112 @@
+{
+  "courses": [
+    {
+      "id": "110",
+      "title": "Cybersecurity",
+      "modules": [
+        {
+          "id": 101,
+          "name": "Network Security"
+        },
+        {
+          "id": 102,
+          "name": "Ethical Hacking"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "title": "Blockchain Development",
+      "modules": [
+        {
+          "id": 111,
+          "name": "Blockchain Basics"
+        },
+        {
+          "id": 112,
+          "name": "Smart Contracts"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "title": "Digital Marketing",
+      "modules": [
+        {
+          "id": 121,
+          "name": "SEO"
+        },
+        {
+          "id": 122,
+          "name": "Social Media Marketing"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "title": "UI/UX Design",
+      "modules": [
+        {
+          "id": 131,
+          "name": "Wireframing"
+        },
+        {
+          "id": 132,
+          "name": "Prototyping"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "title": "DevOps",
+      "modules": [
+        {
+          "id": 141,
+          "name": "CI/CD"
+        },
+        {
+          "id": 142,
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "title": "Virtual Reality",
+      "modules": [
+        {
+          "id": 151,
+          "name": "VR Basics"
+        },
+        {
+          "id": 152,
+          "name": "Unity for VR"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "title": "Artificial Intelligence",
+      "modules": [
+        {
+          "id": 161,
+          "name": "AI Foundations"
+        },
+        {
+          "id": 162,
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "id": "a895",
+      "title": "djshgkl",
+      "modules": [
+        {
+          "id": "1732113749168",
+          "name": "kjadgs"
+        }
+      ]
+    }
+  ]
+}

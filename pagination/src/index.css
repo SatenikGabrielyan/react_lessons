@@ -1,0 +1,36 @@
+
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.list div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 42px;
+  border: 1px solid red;
+  width: 150px;
+  height: 150px;
+}
+
+.list div:hover{
+  background-color: red;
+  transition: 0.7s;
+}
+
+.active{
+  border: none;
+  background-color: yellowgreen;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+ 
+ 
+ 
+
+}
